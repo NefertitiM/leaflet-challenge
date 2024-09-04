@@ -1,1 +1,2 @@
 # leaflet-challenge
+The United States Geological Survey provides scientific data about natural hazards, environmental health, and the impacts of climate change. Javascript, HTML, and leaflet were used to generate a visualization of earthquakes from the data. A map was created with markers highlighting earthquake magnitude and depth, a legend, and popups giving additional information about the individual earthquakes.
